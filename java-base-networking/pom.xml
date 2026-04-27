@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ru.botslivehere</groupId>
-  <artifactId>BaseNetworkExample</artifactId>
+  <artifactId>java-base-networking</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>BaseNetworkExample</name>
+  <name>java-base-networking</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
