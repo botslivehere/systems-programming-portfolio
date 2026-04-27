@@ -12,6 +12,7 @@ This repository contains a structured collection of systems programming projects
 
 | Project Directory | Synopsis | Primary Technologies |
 | :--- | :--- | :--- |
+| [`java-async-aggregator`](./java-async-aggregator/) | Multi-threaded transaction aggregation service demonstrating parallel asynchronous execution, I/O streaming, robust data validation, and concurrent atomic state manipulation. | Java, Concurrency, Stream API |
 | [`winapi-image-viewer`](./winapi-image-viewer/) | Native application for decoding and rendering a custom tightly-packed binary image format. Implements GDI rendering, interactive UI controls, and algorithmic scaling. | C++, WinAPI, Bitwise Operations |
 | [`c-library-client`](./c-library-client/) | Demonstration of interface segregation and library design. Splits logic into a robust linkable component and a consuming client executable. | C/C++, Architecture |
 | [`asm-real-interrupts`](./asm-real-interrupts/) | Mixed-language module (C and Assembly) implementing direct hardware and software interrupt handling in a DOS real-mode environment. | C, Assembly |
